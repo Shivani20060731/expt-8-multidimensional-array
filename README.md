@@ -106,6 +106,6 @@ Machine learning data representation
 Game development (2D grids, tile maps)
 
 Conclusion:
+
 In this experiment, we successfully implemented various operations on multidimensional arrays in C++ such as matrix input/output, addition, multiplication, transpose, diagonal sum, and row comparison. The programs demonstrated the use of nested loops, index-based element access, and dimension validation.
-Through these operations, we understood how multidimensional arrays can efficiently represent and manipulate tabular data, forming the foundation for advanced applications in scientific computing, graphics, data analysis, and engineering problems.
 
